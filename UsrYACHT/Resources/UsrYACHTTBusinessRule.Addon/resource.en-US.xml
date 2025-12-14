@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.c02757dc-f7bc-a572-8835-771db18b5648.Caption" Value="Apply filter: State" />
+			<Item Name="AddonConfig.Rules.e71f26a6-3635-8990-52cf-6f48b049613d.Caption" Value="ChildRule-c02757dc-f7bc-a572-8835-771db18b5648-ClearValue" />
+			<Item Name="AddonConfig.Rules.f5379748-fb26-7c7b-11ae-f1335a76838e.Caption" Value="ChildRule-c02757dc-f7bc-a572-8835-771db18b5648-PopulateValue" />
+			<Item Name="Caption" Value="YACHT (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
