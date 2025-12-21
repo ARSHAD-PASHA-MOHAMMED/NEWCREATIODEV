@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="New modal page" />
+			<Item Name="Parameters.33cf057a-69f8-884a-d75e-79d9798b0f35.Caption" Value="AvgTicketPrice" />
+			<Item Name="Parameters.8d9a7e74-36f8-49ba-51c6-a037ec5ee69c.Caption" Value="SQLText" />
+		</Items>
+	</Group>
+</Resources>

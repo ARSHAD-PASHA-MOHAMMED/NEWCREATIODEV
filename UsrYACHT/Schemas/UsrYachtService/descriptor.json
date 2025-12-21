@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "93eabaa7-8656-4d86-b0bc-61dfb8f88903",
+    "Name": "UsrYachtService",
+    "ModifiedOnUtc": "\/Date(1766320029000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Service to Calculate Max price"
+  }
+}

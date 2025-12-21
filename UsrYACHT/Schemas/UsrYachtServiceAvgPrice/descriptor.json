@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "36fd620b-8d96-40fb-a1f4-e1ec1b2e5e49",
+    "Name": "UsrYachtServiceAvgPrice",
+    "ModifiedOnUtc": "\/Date(1766339809000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Web Service to get Avg price"
+  }
+}

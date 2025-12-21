@@ -339,8 +339,11 @@
 		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Entity Files">
+		<Compile Remove="$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrCategories/UsrCategories.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrCategories/UsrCategories.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrCategoriesInYacht/UsrCategoriesInYacht.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrCategoriesInYacht/UsrCategoriesInYacht.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrDriveType/UsrDriveType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrDriveType/UsrDriveType.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrStatus/UsrStatus.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrStatus/UsrStatus.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrYachtRental/UsrYachtRental.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrYachtRental/UsrYachtRental.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrYACHTT/UsrYACHTT.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYACHT/Schemas/UsrYACHTT/UsrYACHTT.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>

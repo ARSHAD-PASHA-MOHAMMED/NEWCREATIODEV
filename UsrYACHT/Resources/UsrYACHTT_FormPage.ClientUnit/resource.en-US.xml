@@ -9,10 +9,24 @@
 			<Item Name="LocalizableStrings.addRecord_gdrs8vq_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_qqrby0c_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_udkxgbp_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_btgjx0x_caption.Value" Value="Action" />
 			<Item Name="LocalizableStrings.EmailInput_h57ub5w_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.EmailInput_h57ub5w_label.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.ExpansionPanel_1iv50nv_title.Value" Value="Yacht Rental" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_ii69m9r_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_77relye_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_9p6nn10_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_jyzhdl6_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_7t7ksel_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_vhyepit_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.LengthCannotBeLess.Value" Value="Length cannot be lessa than 4" />
+			<Item Name="LocalizableStrings.MultiSelect_5yoruoe_label.Value" Value="Yacht Categories" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50" />
 			<Item Name="LocalizableStrings.pushbutton_caption.Value" Value="push me" />
+			<Item Name="LocalizableStrings.RunAvgTicketMenuItem_caption.Value" Value="Start avg ticket price process" />
+			<Item Name="LocalizableStrings.UsrAvgWebService_caption.Value" Value="Avg price Web Service" />
+			<Item Name="LocalizableStrings.UsrMaxPriceWebService_caption.Value" Value="Call Max price webService" />
+			<Item Name="Parameters.4443dc77-e71d-41cd-aa3f-03305b889a16.Caption" Value="AvgPriceYacht" />
 		</Items>
 	</Group>
 </Resources>

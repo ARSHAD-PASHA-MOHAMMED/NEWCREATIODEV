@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "485adb7d-c882-459f-b469-aef6a1dafbfe",
+    "Name": "UsrPage_c13mx4j",
+    "ModifiedOnUtc": "\/Date(1765982707000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yacht Rental modal page"
+  }
+}
